@@ -1,0 +1,10 @@
+com\usercaching\configuration\SecurityConfiguration.class
+com\usercaching\controller\UserController.class
+com\usercaching\SprinBootUserCachingApplication.class
+com\usercaching\service\UserServiceImpl.class
+com\usercaching\model\Role.class
+com\usercaching\repository\RoleRespository.class
+com\usercaching\service\UserService.class
+com\usercaching\repository\UserRepository.class
+com\usercaching\model\User.class
+com\usercaching\configuration\WebMvcConfig.class
